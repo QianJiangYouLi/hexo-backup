@@ -3,8 +3,8 @@ title: hexo搭建博客
 top_img: https://picsum.photos/seed/picsum/1920/942
 cover: https://picsum.photos/seed/picsum/470/315
 date: 2023-04-30 08:07:03
-tags: 教程
-categories: 工具
+tags: 博客
+categories: 博客
 toc_number:
 updated:
 keywords: Hexo 博客
