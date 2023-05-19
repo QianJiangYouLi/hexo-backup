@@ -761,9 +761,9 @@ subtitle:
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
-  - 一路向南不回头
+  - 陪伴是最长情的告白，守护是最沉默的陪伴
   - 从哪里跌到就从哪里爬起
-  - 累了么？休息会儿吧，一会儿后继续！
+  - 愿万家灯火有一盏独属于我
 
 # Loading Animation (加載動畫)
 preloader:
