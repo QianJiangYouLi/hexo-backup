@@ -232,7 +232,7 @@ aside:
     enable: true
     description:
     button:
-      enable: true
+      enable: false
       icon: fab fa-github
       text: Follow Me
       link: https://github.com/QianJiangYouLi
@@ -409,8 +409,8 @@ addtoany:
 comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
-  use:  Twikoo # Valine,Disqus
-  text: true # Display the comment name next to the button
+  # use:  Twikoo # Valine,Disqus
+  # text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
   lazyload: false
@@ -727,10 +727,10 @@ beautify:
 # Global font settings
 # Don't modify the following settings unless you know how they work (非必要不要修改)
 font:
-  global-font-size:
-  code-font-size:
-  font-family:
-  code-font-family:
+  global-font-size: 20
+  code-font-size: 18
+  font-family: 
+  code-font-family: JetBrainsMono
 
 # Font settings for the site title and site subtitle
 # 左上角網站名字 主頁居中網站名字
