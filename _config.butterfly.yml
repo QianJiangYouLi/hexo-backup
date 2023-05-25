@@ -4,7 +4,7 @@
 
 nav:
   logo: https://pic1.imgdb.cn/item/646ade94e03e90d8745d8df8.webp
-  display_title: true
+  display_title: false
   fixed: false # fixed navigation bar
 
 # Menu 目錄
@@ -22,7 +22,7 @@ menu:
 # Code Blocks (代碼相關)
 # --------------------------------------
 
-highlight_theme: light #  darker / pale night / light / ocean / mac / mac light / false
+highlight_theme: mac #  darker / pale night / light / ocean / mac / mac light / false
 highlight_copy: true # copy button
 highlight_lang: true # show the code language
 highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
@@ -238,7 +238,7 @@ aside:
       link: https://github.com/QianJiangYouLi
   card_announcement:
     enable: true
-    content: 经济自由是追求个性的基础，否则都是空谈
+    content: 站长近期在整理前端开发的一些常用基本技能，有需要的可以收藏一下，欢迎大家一起补充
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
