@@ -4,7 +4,7 @@ top_img: https://picsum.photos/seed/picsum/1920/942
 cover: https://picsum.photos/seed/picsum/470/315
 date: 2023-05-19 21:00:17
 tags: HTML
-categories: 前端
+categories: HTML
 toc_number:
 updated:
 keywords:
